@@ -92,21 +92,32 @@ The dashboard includes:
 ### Challenges and Solutions
 
 1. Missing or Incomplete Data
-  Solution: Handled missing values by cleaning the dataset, removing incomplete          records, and standardizing important fields        before visualization.
+
+   Solution: Handled missing values by cleaning the dataset, removing incomplete records, and standardizing important fields before visualization.
+
 2. Inconsistent Data Formats
-  Solution: Standardized data formats such as dates, ratings, and categorical values     to ensure consistency across the dashboard.
+
+   Solution: Standardized data formats such as dates, ratings, and categorical values     to ensure consistency across the dashboard.
+
 3. Dashboard Layout and Spacing Issues
+
    Solution: Improved alignment, spacing, and container organization to create a          cleaner and more professional dashboard design.
+
 4. Managing Multiple Filters
+
    Solution: Organized filters in a dedicated section to maintain dashboard               readability and improve user interaction.
+
 5. Representing Percentage-Based Metrics
+
    Solution: Used simplified bar charts and KPI indicators to present percentage          metrics in a more readable and visually effective way.
+
 6. Maintaining Visual Consistency
+
    Solution: Applied a consistent color palette, font style, and chart formatting         throughout the dashboard for a professional appearance.
 
 ### Conclusion
 
-This project demonstrates practical skills in data visualization, dashboard design, and business insight generation using Tableau. The dashboard helps convert raw restaurant data into meaningful analytical insights through interactive and visually structured reporting.
+This project demonstrates practical skills in data visualization, dashboard design, and business insight generation using excel, PowerBI, Tableau and SQL. The dashboard helps convert raw restaurant data into meaningful analytical insights through interactive and visually structured reporting.
 
 ### Author
 
