@@ -4,7 +4,7 @@
 - [Project Overview](#project-overview)
 - [Obejectives](#objectives)
 - [Process](#process)
-- [Visualization](#visualization)
+- [Visualizations](#visualizations)
 - [Insights Generation](#insights-generation)
 - [Tools](#tools)
 - [Challenges and solutions](#challenges-and-solutions)
@@ -71,7 +71,7 @@ The dashboard includes:
 4. Restaurant growth increased significantly after 2010.
 5. Major restaurant concentration is observed in metropolitan cities.
 
-### Tools & Technologies Used
+### Tools
 1. Microsoft Excel 
 2. Microsoft PowerBI
 3. Tableau
