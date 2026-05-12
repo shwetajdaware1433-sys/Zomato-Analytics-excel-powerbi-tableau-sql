@@ -5,6 +5,7 @@
 - [Obejectives](#objectives)
 - [Process](#process)
 - [Visualizations](#visualizations)
+- [Repository Structure](#repository-structure)
 - [Insights Generation](#insights-generation)
 - [Tools](#tools)
 - [Challenges and solutions](#challenges-and-solutions)
@@ -63,6 +64,17 @@ The dashboard includes:
    2. City
    3. Cuisine
    4. Year
+
+### Repository Structure
+
+   📦 Zomato-Analysis-Project
+│
+├── 📄 README.md
+├── 📊 PowerBI_Dashboard.pbix
+├── 📊 Tableau_Workbook.twbx
+├── 📈 Excel_Data.xlsx
+├── 🗄 SQL_Scripts.sql
+└── 📸 Dashboard_Screenshots/      
 
 ### Insights Generation
 1. Most restaurants are rated in the “Good” category.
