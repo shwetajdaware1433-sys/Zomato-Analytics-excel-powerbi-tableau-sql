@@ -92,7 +92,7 @@ The dashboard includes:
 ### Challenges and Solutions
 
 1. Missing or Incomplete Data
-  Solution: Handled missing values by cleaning the dataset, removing incomplete          records, and standardizing important fields before visualization.
+  Solution: Handled missing values by cleaning the dataset, removing incomplete          records, and standardizing important fields        before visualization.
 2. Inconsistent Data Formats
   Solution: Standardized data formats such as dates, ratings, and categorical values     to ensure consistency across the dashboard.
 3. Dashboard Layout and Spacing Issues
